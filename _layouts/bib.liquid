@@ -3,7 +3,6 @@
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-3 abbr">
-      {% endif %}
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
@@ -27,6 +26,20 @@
         {% endif %}
       {% endif %}
 
+      {% if entry.preview and entry.preview != 'false' and entry.preview != '' %}
+        {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+        {% include figure.liquid
+          loading="eager"
+          path=entry_path
+          width = "180px"
+          height = "120px"
+          class="preview z-depth-1 rounded"
+          zoomable=true
+          alt=entry.preview
+        %}
+      {% endif %}
+    </div>
+  {% endif %}
 
   <!-- Entry bib key -->
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-9{% else %}col-sm-10{% endif %}">
