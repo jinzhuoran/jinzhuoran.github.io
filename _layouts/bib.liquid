@@ -26,18 +26,6 @@
           <abbr class="badge w-50">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
-      {% if entry.preview %}
-        {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=entry_path
-          width = "180px"
-          height = "120px"
-          class="preview z-depth-1 rounded"
-          zoomable=true
-          alt=entry.preview
-        %}
     </div>
   {% endif %}
 
