@@ -27,7 +27,6 @@ social: false # includes social icons at the bottom of the page
 I am currently a fourth-year Ph.D student at the Natural Language Processing and Knowledge Engineering (NLKE) Group, [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/), advised by [Prof. Jun Zhao](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html). Before that, I received my B.E. degree in Software Engineering from Northeastern University (NEU) in 2021. My research interests include Natural Language Processing, Large Language Models, and Knowledge Engineering.
 
 
-
 My passion lies in tackling complex problems in computer vision and artificial intelligence. I have made significant contributions to the fields of semantic/panoptic segmentation, behavior prediction, and vision-language models. Among my most notable works are:
 - [BiSeNet](https://openaccess.thecvf.com/content_ECCV_2018/html/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.html) (Rank 10 in ECCV 2018 Top-10 Influential Papers & Citation > 2500).
 - [BiSeNetV2](https://link.springer.com/article/10.1007/s11263-021-01515-2) (IJCV & ESI & ESI-Hot & Citation > 1000).
