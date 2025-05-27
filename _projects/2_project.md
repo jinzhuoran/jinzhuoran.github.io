@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Omni-RewardBench
+description: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences
+img: assets/img/omni_logo.png
+redirect: https://huggingface.co/datasets/HongbangYuan/OmniRewardBench/
+importance: 3
+category: benchmark
 ---
 
 Every project has a beautiful feature showcase page.

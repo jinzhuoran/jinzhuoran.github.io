@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RWKU
-description: Real-World Knowledge Unlearning benchmark
+description: Benchmarking Real-World Knowledge Unlearning for Large Language Models
 img: assets/img/rwku_logo.png
 redirect: https://huggingface.co/datasets/jinzhuoran/RWKU
 importance: 3

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: CogKTR
+description: A Knowledge-Enhanced Text Representation Toolkit for Natural Language Understanding
+img: assets/img/cogktr_logo.png
+redirect: https://github.com/CogNLP/CogKTR/
+importance: 3
+category: toolkit
 ---
 
 Every project has a beautiful feature showcase page.

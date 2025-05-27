@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: MMR-V
+description: A Benchmark for Multimodal Deep Reasoning in Videos
+img: assets/img/mmrv_logo.png
+redirect: https://huggingface.co/datasets/JokerJan/MMR-VBench
 importance: 3
-category: work
+category: benchmark
 ---
 
 Every project has a beautiful feature showcase page.

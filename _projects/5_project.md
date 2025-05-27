@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: CogKGE
+description: A Knowledge Graph Embedding Toolkit and Benckmark for Representing Multi-source and Heterogeneous Knowledge
+img: assets/img/cogkge_logo.png
+redirect: https://github.com/jinzhuoran/CogKGE
 importance: 3
-category: fun
+category: toolkit
 ---
 
 Every project has a beautiful feature showcase page.
