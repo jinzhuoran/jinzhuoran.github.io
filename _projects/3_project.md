@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Omni-RewardBench
-description: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences. The first omni-modal RM benchmark with free-form preferences, covering nine tasks across five modalities including text, image, video, audio, and 3D 
-img: assets/img/omni_logo.png
-redirect: https://huggingface.co/datasets/HongbangYuan/OmniRewardBench/
+title: MMR-V
+description: A Benchmark for Multimodal Deep Reasoning in Videos.
+img: assets/img/mmrv_logo.png
+redirect: https://huggingface.co/datasets/JokerJan/MMR-VBench
 importance: 3
 category: benchmark
 ---
