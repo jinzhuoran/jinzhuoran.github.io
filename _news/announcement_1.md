@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Five paper were accepted to ACL 2025.
+Five paper are accepted by ACL 2025.

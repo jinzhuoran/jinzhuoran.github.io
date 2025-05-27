@@ -16,6 +16,7 @@ profile:
   more_info: >
       <a href="https://scholar.google.com/citations?user=Am8WsCkAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/jinzhuoran"><i class="fa-brands fa-square-github fa-2x"></i></a>
+      <a href="https://www.semanticscholar.org/author/Zhuoran-Jin/2152843772"><i class="ai ai-semantic-scholar-square ai-2x"></i></a>
       <a href="https://huggingface.co/jinzhuoran" style="vertical-align: middle;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="28" height="28"></a>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
