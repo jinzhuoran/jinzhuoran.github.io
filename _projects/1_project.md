@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
+title: RWKU
+description: Real-World Knowledge Unlearning benchmark
+img: assets/img/rwku_logo.png
+redirect: https://huggingface.co/datasets/jinzhuoran/RWKU
+importance: 3
+category: benchmark
 ---
 
 Every project has a beautiful feature showcase page.
