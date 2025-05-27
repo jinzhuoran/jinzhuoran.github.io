@@ -8,6 +8,7 @@ subtitle: Fourth-year Ph.D student@Institute of Automation, Chinese Academy of S
 [//]: # (<a href="https://www.linkedin.com/in/yu-changqian/"><i class="fa-brands fa-linkedin fa-2x"></i></a>)
 [//]: # (<a href="https://x.com/ChangqianYu"><i class="fa-brands fa-square-x-twitter fa-2x"></i></a>)
 [//]: # (<a href="https://www.zhihu.com/people/yu-chang-qian"><i class="fa-brands fa-zhihu fa-2x"></i></a>)
+[//]: # (<a href="https://huggingface.co/jinzhuoran" style="font-size: 24px; text-decoration: none;">🤗</a>)
 
 profile:
   align: left
@@ -17,7 +18,6 @@ profile:
       <a href="https://scholar.google.com/citations?user=Am8WsCkAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/jinzhuoran"><i class="fa-brands fa-square-github fa-2x"></i></a>
       <a href="https://www.semanticscholar.org/author/Zhuoran-Jin/2152843772"><i class="ai ai-semantic-scholar-square ai-2x"></i></a>
-      <a href="https://huggingface.co/jinzhuoran" style="font-size: 24px; text-decoration: none;">🤗</a>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
