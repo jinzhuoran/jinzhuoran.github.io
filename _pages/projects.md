@@ -2,7 +2,7 @@
 layout: page
 title: Projects & Resources
 permalink: /projects/
-description: Committed to creating more impactful and valuable open-source projects. Please see <a href="https://github.com/jinzhuoran">Github</a> and <a href="https://huggingface.co/jinzhuoran">Huggingface</a> for more recent open-source projects.
+description: Committed to creating more impactful and valuable open-source projects.
 nav: true
 nav_order: 3
 display_categories: [benchmark, toolkit]
