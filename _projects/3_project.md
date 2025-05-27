@@ -1,9 +1,9 @@
 ---
 layout: page
-title: MMR-V
-description: A Benchmark for Multimodal Deep Reasoning in Videos. The benchmark is characterized by the following features: long-range, multi-frame reasoning, beyond perception, reliability, and confusability.
-img: assets/img/mmrv_logo.png
-redirect: https://huggingface.co/datasets/JokerJan/MMR-VBench
+title: Omni-RewardBench
+description: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences. The first omni-modal RM benchmark with free-form preferences, covering nine tasks across five modalities including text, image, video, audio, and 3D 
+img: assets/img/omni_logo.png
+redirect: https://huggingface.co/datasets/HongbangYuan/OmniRewardBench/
 importance: 3
 category: benchmark
 ---
