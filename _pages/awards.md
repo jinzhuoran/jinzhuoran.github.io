@@ -15,7 +15,7 @@ nav_order: 5
 ### Services
 - (2022-2024) Student Executive Committee Member, Youth Working Committee, Chinese Information Processing Society of China
 - (2023) Program Chair, The China Student Symposium on Natural Language Processing, CSSNLP 2022
-- (2022) Program Chair, EMNLP 2023 论文预讲会
+- (2022) Program Chair, EMNLP 2023 Paper Pre-Presentation Session
 - Regular reviewer for NeurIPS, ICLR, ACL, EMNLP, NAACL, TNNLS
   
 ### Challenges

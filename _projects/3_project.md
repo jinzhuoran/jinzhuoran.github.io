@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MMR-V
-description: *What's Left Unsaid?*<br>A Benchmark for Multimodal Deep Reasoning in Videos
+description: A Benchmark for Multimodal Deep Reasoning in Videos. The benchmark is characterized by the following features: long-range, multi-frame reasoning, beyond perception, reliability, and confusability.
 img: assets/img/mmrv_logo.png
 redirect: https://huggingface.co/datasets/JokerJan/MMR-VBench
 importance: 3

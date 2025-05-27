@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RWKU
-description: Benchmarking Real-World Knowledge Unlearning for Large Language Models
+description: Benchmarking Real-World Knowledge Unlearning for Large Language Models. The dataset has been downloaded over 100,000 times on Hugging Face.
 img: assets/img/rwku_logo.png
 redirect: https://huggingface.co/datasets/jinzhuoran/RWKU
 importance: 3
