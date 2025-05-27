@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 #footer_text: > # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos taken in Japan by my wife Mengqi Du.
-keywords: yu-changqian # add your own keywords or leave empty
+keywords: jin-zhuoran # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌕 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -70,13 +70,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 acm_id: # your dl.acm.org/profile/id
-blogger_url: https://www.zhihu.com/people/yu-chang-qian
+blogger_url:
 bluesky_url: # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: yu-changqian
+github_username: jinzhuoran
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: Hv-vj2sAAAAJ # your Google Scholar ID
+scholar_userid: Am8WsCkAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -105,7 +105,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: ChangqianYu
+x_username:
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Welcome to Changqian's Log # blog_name will be displayed in your blog page
-blog_description: Hi, this is Yu Changqian. I set up this blog to share my articles and thoughts.
+blog_name: Welcome to Zhuoran's Log # blog_name will be displayed in your blog page
+blog_description: Hi, this is Zhuoran Jin. I set up this blog to share my articles and thoughts.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

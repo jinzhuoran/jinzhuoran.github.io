@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a 4th-year Ph.D student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**. If you are interested in my work or want to collaborate, feel free to contact me via: zhuoran.jin[at]nlpr[dot]ia[dot]ac.cn.
+I am a 4th-year Ph.D student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**.
 
 My research is dedicated to bridging the gap between **large language models** and **human knowledge frameworks** ([Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)), with a focus on **expanding knowledge boundaries**, **erasing harmful knowledge**, and **improving reasoning capabilities**.
 Recently, I have also become increasingly interested in **multimodal large language models**, particularly in understanding and enhancing their ability to **automatically solve complex and meaningful real-world problems**. My primary research interests are:
@@ -34,3 +34,5 @@ Recently, I have also become increasingly interested in **multimodal large langu
 - **Machine Unlearning**: Machine unlearning enables the targeted removal of sensitive, harmful, or copyrighted knowledge from models. To better evaluate unlearning in the context of LLMs, we propose a Real-World Knowledge Unlearning benchmark ([RWKU, NeurIPS 2024](https://openreview.net/forum?id=wOmtZ5FgMH)). Building on this, we reveal the vulnerability of existing unlearning algorithms to adversarial attacks and propose Latent Adversarial Unlearning, a method designed for robust knowledge unlearning ([LAU, AAAI 2025](https://ojs.aaai.org/index.php/AAAI/article/view/34769). Moreover, to improve the naturalness of model responses after unlearning, we introduce an on-policy reinforcement learning framework that performs refusal boundary optimization ([RULE](https://github.com/chenlong-clock/RULE-Unlearn)).
 - **Reward Modeling**:
 - **Multimodal Reasoning**: 
+
+If you are interested in my work or want to collaborate, feel free to contact me via: zhuoran.jin[at]nlpr[dot]ia[dot]ac.cn.
