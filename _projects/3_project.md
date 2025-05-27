@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MMR-V
-description: A Benchmark for Multimodal Deep Reasoning in Videos
+description: *What's Left Unsaid?*<br>A Benchmark for Multimodal Deep Reasoning in Videos
 img: assets/img/mmrv_logo.png
 redirect: https://huggingface.co/datasets/JokerJan/MMR-VBench
 importance: 3
