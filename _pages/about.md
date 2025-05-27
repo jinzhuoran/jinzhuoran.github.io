@@ -30,7 +30,7 @@ I am a 4th-year Ph.D student at the Natural Language Processing and Knowledge En
 My research is dedicated to bridging the gap between **large language models** and **human knowledge frameworks** ([Bloom's Taxonomy](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)), with a focus on **expanding knowledge boundaries**, **erasing harmful knowledge**, and **improving reasoning capabilities**.
 Recently, I have also become increasingly interested in **multimodal large language models**, particularly in understanding and enhancing their ability to **automatically solve complex and meaningful real-world problems**. My primary research interests are:
 
-- **Retrieval-Augmented Generation**: .
-- **Machine Unlearning**.
-- **Reward Modeling**
-- **Multimodal Reasoning**
+- **Retrieval-Augmented Generation**: RAG can effectively expand the internal memory boundaries of LLMs by providing external context. My work focuses on: (1) leveraging feedback reward signals from LLMs to improve retrieval quality ([InstructoR, EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.443.pdf)); (2) investigating the mechanisms underlying knowledge conflicts between internal memory and external context ([Tug-of-War Between Knowledge, COLING 2024](https://aclanthology.org/2024.lrec-main.1466.pdf) and [Cutting Off the Head Ends the Conflict, ACL 2024](https://aclanthology.org/2024.findings-acl.70.pdf)); and (3) aligning RAG model behavior with human preferences through reward modeling ([RAG-RewardBench, ACL 2025](https://arxiv.org/pdf/2412.13746)).
+- **Machine Unlearning**: 
+- **Reward Modeling**:
+- **Multimodal Reasoning**: 
