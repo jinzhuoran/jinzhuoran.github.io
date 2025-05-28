@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a 4th-year Ph.D student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://nlpr-web.ia.ac.cn/cip/english/~junzhao/index.html). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**.
+I am a 4th-year Ph.D student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**.
 
 My research is dedicated to bridging the gap between **large language models** and **human knowledge frameworks**, with a focus on **expanding knowledge boundaries**, **erasing harmful knowledge**, and **improving reasoning capabilities**.
 Recently, I have also become increasingly interested in **multimodal large language models**, particularly in understanding and enhancing their ability to **automatically solve complex and meaningful real-world problems**. My primary research areas are:
