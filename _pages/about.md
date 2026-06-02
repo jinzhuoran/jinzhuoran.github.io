@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**. I have published over **30 papers** at top-tier conferences, including NeurIPS, ICLR, ACL, AAAI, EMNLP, NAACL, and COLING, with <a href='https://scholar.google.com/citations?user=Am8WsCkAAAAJ&hl=en'><img alt="Google Scholar citations" src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
+I am a final-year Ph.D. student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**. I have published over **30 papers** at top-tier conferences, including NeurIPS, ICLR, ACL, AAAI, EMNLP, NAACL, and COLING.
 
 # 🔎 Research
 
@@ -212,7 +212,7 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 * [Zero-Shot Cross-Lingual Event Argument Extraction with Language-Oriented Prefix-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/26482). **AAAI 2023**.<br>
   Pengfei Cao<sup>*</sup>, **Zhuoran Jin**<sup>*</sup>, Yubo Chen, Kang Liu, Jun Zhao
 
-## 2022
+## 2022 and Earlier
 
 * [A Good Neighbor, A Found Treasure: Mining Treasured Neighbors for Knowledge Graph Entity Typing](https://aclanthology.org/2022.emnlp-main.31/). **EMNLP 2022**.<br>
   **Zhuoran Jin**, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
@@ -222,8 +222,6 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 
 * [CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge](https://aclanthology.org/2022.acl-demo.16/). **ACL Demo 2022**.<br>
   **Zhuoran Jin**<sup>*</sup>, Tianyi Men<sup>*</sup>, Hongbang Yuan<sup>*</sup>, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao
-
-## 2021
 
 * [CogIE: An Information Extraction Toolkit for Bridging Texts and CogNet](https://aclanthology.org/2021.acl-demo.11/). **ACL Demo 2021**.<br>
   **Zhuoran Jin**, Yubo Chen, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Jun Zhao
@@ -246,6 +244,8 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 
 # 💼 Services
 
+* *2025-2026*, Teaching Assistant of Knowledge Engineering, University of Chinese Academy of Sciences.
+
 * *2022-2024*, Student Executive Committee Member, Youth Working Committee, Chinese Information Processing Society of China. (中文信息学会青工委学生委员)
 
 * *2023*, Program Chair, The China Student Symposium on Natural Language Processing, CSSNLP 2023. (CSSNLP 2023 程序委员会主席)
@@ -256,6 +256,6 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 
 # 📖 Educations
 
-* *2021.09 - 2026.06*, Ph.D., School of Artificial Intelligence, University of Chinese Academy of Sciences.
+* *2021.09 - 2026.06*, Ph.D., School of Artificial Intelligence, University of Chinese Academy of Sciences, supervised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/).
 
 * *2017.09 - 2021.06*, B.E., School of Software Engineering, Northeastern University.
