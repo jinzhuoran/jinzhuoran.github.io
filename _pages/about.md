@@ -14,7 +14,13 @@ I am a final-year Ph.D. student at the Natural Language Processing and Knowledge
 
 # 🔎 Research
 
-My research aims to **advance intelligent agent systems by making them knowledgeable, multimodal, controllable, and grounded in real-world environments**.
+My research aims to **advance intelligent agent systems by making them knowledgeable, multimodal, controllable, and grounded in real-world environments**. Specifically, my work focuses on three closely connected directions:
+
+* **Knowledge for Agent**: Providing knowledge to agents through **agentic environments** and **world models**, enabling them to explore, interact, and accumulate experience.
+
+* **Agent for Knowledge**: Developing agents for **knowledge management** and **knowledge discovery**, enabling them to actively collect, organize, analyze, and update knowledge.
+
+* **Social Intelligence**: Applying agents to **social simulation** and **social governance**, enabling them to model, predict, and guide multi-agent interactions and emergent behaviors.
 
 <div style="border-left: 4px solid #e56565; background: #fff5f5; padding: 0.85em 1em; margin: 1em 0 1.25em 0; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.06);">
   <div style="margin-bottom: 0.45em;">
@@ -62,13 +68,24 @@ Jiachun Li<sup>*</sup>, **Zhuoran Jin**<sup>*</sup>, Tianyi Men<sup>*</sup>, Yup
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publication/mmrv.png' alt="MMR-V" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos](https://openreview.net/forum?id=xk8EqWDPQw) \\
+Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+
+[![Paper](https://img.shields.io/badge/Paper-ICLR_2026-b31b1b.svg?logo=acclaim)](https://openreview.net/forum?id=xk8EqWDPQw) [![Homepage](https://img.shields.io/badge/Homepage-MMR_V-orange.svg)](https://mmr-v.github.io/) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-MMR_V_Bench-blue.svg)](https://huggingface.co/datasets/JokerJan/MMR-VBench)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publication/rwku.png' alt="RWKU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](http://papers.nips.cc/paper_files/paper/2024/hash/b1f78dfc9ca0156498241012aec4efa0-Abstract-Datasets_and_Benchmarks_Track.html) \\
 **Zhuoran Jin**, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao
 
-[![Paper](https://img.shields.io/badge/Paper-NeurIPS_2024-b31b1b.svg?logo=neurips)](http://papers.nips.cc/paper_files/paper/2024/hash/b1f78dfc9ca0156498241012aec4efa0-Abstract-Datasets_and_Benchmarks_Track.html) [![Homepage](https://img.shields.io/badge/Homepage-RWKU-orange.svg)](https://rwku-bench.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Code-black.svg?logo=github)](https://github.com/jinzhuoran/RWKU) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Benchmark-blue.svg)](https://huggingface.co/datasets/jinzhuoran/RWKU)
+[![Paper](https://img.shields.io/badge/Paper-NeurIPS_2024-b31b1b.svg?logo=neurips)](http://papers.nips.cc/paper_files/paper/2024/hash/b1f78dfc9ca0156498241012aec4efa0-Abstract-Datasets_and_Benchmarks_Track.html) [![Homepage](https://img.shields.io/badge/Homepage-RWKU-orange.svg)](https://rwku-bench.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Code-black.svg?logo=github)](https://github.com/jinzhuoran/RWKU) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-RWKU-blue.svg)](https://huggingface.co/datasets/jinzhuoran/RWKU)
 
 </div>
 </div>
