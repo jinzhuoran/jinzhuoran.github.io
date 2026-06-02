@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**. I have published over **30 papers** at top-tier conferences, including NeurIPS, ICLR, ACL, AAAI, EMNLP, NAACL, and COLING, with <a href='https://scholar.google.com/citations?user=Am8WsCkAAAAJ&hl=en'><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a> citations on Google Scholar.
+I am a final-year Ph.D. student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**. I have published over **30 papers** at top-tier conferences, including NeurIPS, ICLR, ACL, AAAI, EMNLP, NAACL, and COLING, with <a href='https://scholar.google.com/citations?user=Am8WsCkAAAAJ&hl=en'><img alt="Google Scholar citations" src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations on Google Scholar.
 
 # 🔎 Research
 
