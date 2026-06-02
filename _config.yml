@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuoran Jin"
   avatar           : "images/me.jpg"
-  bio              : "Final-year Ph.D. student at Institute of Automation, Chinese Academy of Sciences"
+  bio              : 
   location         : "Beijing, China"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Am8WsCkAAAAJ&hl=en"
   email            : "zhuoran.jin@nlpr.ia.ac.cn"
