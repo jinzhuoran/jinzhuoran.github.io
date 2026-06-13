@@ -42,7 +42,7 @@ My research aims to **advance intelligent agent systems by making them knowledge
 
 # 🔥 News
 
-* *2026-06*:  📰 We released a survey on [Agentic Environment Engineering](https://openreview.net/pdf?id=2p2L6LAwEN), which systematically summarizes recent progress in Environment Modeling, Synthesis, Evaluation, and Application, with nearly 600 papers reviewed.
+* *2026-06*:  📰 We released a survey on [Agentic Environment Engineering](https://arxiv.org/pdf/2606.12191), which systematically summarizes recent progress in Environment Modeling, Synthesis, Evaluation, and Application, with nearly 600 papers reviewed.
 * *2026-05*:  🏆 I received the President Special Award of UCAS (57 students in UCAS).
 * *2026-03*:  🎉 Four papers are accepted by ACL 2026.
 * *2026-03*:  🎉 Four papers are accepted by ICLR 2026, including one selected as an Oral presentation (1.1%).
@@ -56,10 +56,10 @@ My research aims to **advance intelligent agent systems by making them knowledge
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey</div><img src='images/publication/aee.png' alt="Agentic Environment Engineering" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://openreview.net/pdf?id=2p2L6LAwEN) \\
+[Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://arxiv.org/pdf/2606.12191) \\
 Jiachun Li<sup>*</sup>, **Zhuoran Jin**<sup>*</sup>, Tianyi Men<sup>*</sup>, Yupu Hao<sup>*</sup>, Kejian Zhu<sup>*</sup>, Lingshuai Wang<sup>*</sup>, Dongqi Huang<sup>*</sup>, Longxiang Wang<sup>*</sup>, Shengjia Hua<sup>*</sup>, Lu Wang<sup>*</sup>, Jinshan Gao<sup>*</sup>, Hongbang Yuan, Ruilin Xu, Kang Liu, Jun Zhao
 
-[![Paper](https://img.shields.io/badge/Paper-Survey-b31b1b.svg?logo=openreview)](https://openreview.net/pdf?id=2p2L6LAwEN)
+[![Paper](https://img.shields.io/badge/Paper-Survey-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2606.12191) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Paper-blue.svg)](https://huggingface.co/papers/2606.12191)
 
 </div>
 </div>
