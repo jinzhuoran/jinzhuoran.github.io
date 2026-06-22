@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **natural language processing**, **large language models**, and **knowledge engineering**. I have published over **30 papers** at top-tier conferences, including NeurIPS, ICLR, ACL, AAAI, EMNLP, NAACL, and COLING.
+I am a final-year Ph.D. student at the Natural Language Processing and Knowledge Engineering Group (NLPKE), [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/). I am fortunate to be advised by [Prof. Jun Zhao](https://zhaojun-nlpr.github.io/). Before that, I obtained my B.E. degree in Software Engineering from [Northeastern University (NEU)](https://www.neu.edu.cn/) in 2021. My research interests include **large language models**, **agents**, **natural language processing**, and **knowledge engineering**. I have published over **30 papers** at top-tier conferences, including NeurIPS, ICLR, ACL, AAAI, EMNLP, NAACL, and COLING.
 
 # 🔎 Research
 
