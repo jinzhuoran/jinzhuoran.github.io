@@ -42,6 +42,7 @@ My research aims to **advance intelligent agent systems by making them knowledge
 
 # 🔥 News
 
+* *2026-06*:  🎉 One paper is accepted by ECCV 2026.
 * *2026-06*:  📰 We released a survey on [Agentic Environment Engineering](https://arxiv.org/pdf/2606.12191), which systematically summarizes recent progress in Environment Modeling, Synthesis, Evaluation, and Application, with nearly 600 papers reviewed.
 * *2026-05*:  🏆 I received the President Special Award of UCAS (57 students in UCAS).
 * *2026-03*:  🎉 Four papers are accepted by ACL 2026.
@@ -109,6 +110,9 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 </div>
 
 ## 2026
+
+* [Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2603.11896). **ECCV 2026**.<br>
+  Lu Wang, **Zhuoran Jin**, Yupu Hao, Yubo Chen, Kang Liu, Yulong Ao, Jun Zhao
 
 * Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do. **ACL 2026**.<br>
   **Zhuoran Jin**, Kejian Zhu, Hongbang Yuan, Yupu Hao, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
