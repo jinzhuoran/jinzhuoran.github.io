@@ -114,16 +114,16 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 * [Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2603.11896). **ECCV 2026**.<br>
   Lu Wang, **Zhuoran Jin**, Yupu Hao, Yubo Chen, Kang Liu, Yulong Ao, Jun Zhao
 
-* Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do. **ACL 2026**.<br>
+* [Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do](https://aclanthology.org/2026.acl-long.387/). **ACL 2026**.<br>
   **Zhuoran Jin**, Kejian Zhu, Hongbang Yuan, Yupu Hao, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
-* Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning. **ACL 2026**.<br>
+* [Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning](https://aclanthology.org/2026.acl-long.1670/). **ACL 2026**.<br>
   Tianyi Men, **Zhuoran Jin**, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
 
-* Towards Explainable Diagnosis: A Self-learned Explanatory Knowledge Base Approach. **ACL 2026**.<br>
+* [Towards Explainable Diagnosis: A Self-learned Explanatory Knowledge Base Approach](https://aclanthology.org/2026.acl-long.1700/). **ACL 2026**.<br>
   Dongqi Huang, Tong Zhou, **Zhuoran Jin**, Shenghui Shi, maoyujiao, Kang Liu, Jun Zhao, Yubo Chen
 
-* Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation. **ACL Findings 2026**.<br>
+* [Pushing the Limits of LLM Tool Calling via Experiential Knowledge Integration and Activation](https://aclanthology.org/2026.findings-acl.710/). **ACL Findings 2026**.<br>
   Yupu Hao, **Zhuoran Jin**, Huanxuan Liao, Kang Liu, Jun Zhao
 
 * [Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences](https://openreview.net/forum?id=9C4gVbPqSy). **ICLR 2026 (<span style="color:#FF0000;"><strong>Oral</strong></span>)**.<br>
