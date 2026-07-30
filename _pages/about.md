@@ -54,6 +54,17 @@ My research aims to **advance intelligent agent systems by making them knowledge
 
 ## Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publication/plan.png' alt="The Physics of Multi-Turn Long-Horizon Planning" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](https://arxiv.org/pdf/2607.24720) \\
+Tianyi Men, **Zhuoran Jin**, Kang Liu, Jun Zhao
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv_2026-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2607.24720) [![Homepage](https://img.shields.io/badge/Homepage-PlanPhys-orange.svg)](https://quester-one.github.io/PlanPhysWebsite/) [![GitHub](https://img.shields.io/badge/GitHub-Code-black.svg?logo=github)](https://github.com/Quester-one/PlanPhysCode) [![Model](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-blue.svg)](https://huggingface.co/MultimodalAgent/TianyiMen_PlanPhys_Models) [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-blue.svg)](https://huggingface.co/datasets/MultimodalAgent/TianyiMen_PlanPhys_Datasets)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Survey</div><img src='images/publication/aee.png' alt="Agentic Environment Engineering" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
