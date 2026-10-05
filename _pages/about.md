@@ -42,6 +42,7 @@ My research aims to **advance intelligent agent systems by making them knowledge
 
 # 🔥 News
 
+* *2026-08*:  🎉 Three papers are accepted by EMNLP 2026.
 * *2026-06*:  🎉 One paper is accepted by ECCV 2026.
 * *2026-06*:  📰 We released a survey on [Agentic Environment Engineering](https://arxiv.org/pdf/2606.12191), which systematically summarizes recent progress in Environment Modeling, Synthesis, Evaluation, and Application, with nearly 600 papers reviewed.
 * *2026-05*:  🏆 I received the President Special Award of UCAS (57 students in UCAS).
