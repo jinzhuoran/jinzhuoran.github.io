@@ -123,6 +123,15 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 
 ## 2026
 
+* [SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?](https://arxiv.org/pdf/2608.30661). **EMNLP Findings 2026**.<br>
+  Jinshan Gao, **Zhuoran Jin**, Tianyi Men, Kang Liu, Jun Zhao
+
+* From Perception to Simulation: Unveiling and Empowering Mental Spatial Dynamics in MLLMs. **EMNLP Findings 2026**.<br>
+  Jiachun Li, **Zhuoran Jin**, Kang Liu, Jun Zhao
+
+* ExpRL: Unified Non-Parametric and Parametric Experience Learning for LLM Agent Evolution. **EMNLP Findings 2026**.<br>
+  **Zhuoran Jin**<sup>*</sup>, Lingshuai Wang<sup>*</sup>, Yupu Hao, Tianyi Men, Zhitao He, Daojian Zeng, Kang Liu, Jun Zhao
+
 * [Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2603.11896). **ECCV 2026**.<br>
   Lu Wang, **Zhuoran Jin**, Yupu Hao, Yubo Chen, Kang Liu, Yulong Ao, Jun Zhao
 
