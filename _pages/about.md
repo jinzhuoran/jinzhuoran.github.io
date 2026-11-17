@@ -123,13 +123,31 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 
 ## 2026
 
+* [What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?](https://arxiv.org/pdf/2611.06483). **arXiv 2026**.<br>
+  Kejian Zhu, **Zhuoran Jin**, Shangqing Tu, Tianyi Men, Yupu Hao, Jiachun Li, Kang Liu, Jun Zhao
+
+* [AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding](https://arxiv.org/pdf/2610.38678). **arXiv 2026**.<br>
+  Lu Wang, **Zhuoran Jin**, Longxiang Wang, Junhong Chen, Yupu Hao, Yao Xu, Daojian Zeng, Yubo Chen, Kang Liu, Guang Liu, Jun Zhao
+
+* [Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents in Long-Horizon Tasks](https://arxiv.org/pdf/2609.08404). **arXiv 2026**.<br>
+  Hongbang Yuan, **Zhuoran Jin**, Yixin Cao
+
+* [SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs](https://arxiv.org/pdf/2608.03573). **arXiv 2026**.<br>
+  Kejian Zhu, **Zhuoran Jin**, Shangqing Tu, Hongbang Yuan, Yushi Bai, Kang Liu, Juanzi Li, Jun Zhao
+
+* [Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning](https://arxiv.org/pdf/2608.03571). **arXiv 2026**.<br>
+  Kejian Zhu, **Zhuoran Jin**, Dongqi Huang, Hongbang Yuan, Yupu Hao, Kang Liu, Jun Zhao
+
+* [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](https://arxiv.org/pdf/2607.24720). **arXiv 2026**.<br>
+  Tianyi Men, **Zhuoran Jin**, Kang Liu, Jun Zhao
+
 * [SwarmBench: Can Large Language Models Act as Agent Swarm Orchestrators?](https://arxiv.org/pdf/2608.30661). **EMNLP Findings 2026**.<br>
   Jinshan Gao, **Zhuoran Jin**, Tianyi Men, Kang Liu, Jun Zhao
 
-* From Perception to Simulation: Unveiling and Empowering Mental Spatial Dynamics in MLLMs. **EMNLP Findings 2026**.<br>
+* [From Perception to Simulation: Unveiling and Empowering Mental Spatial Dynamics in MLLMs](https://aclanthology.org/2026.findings-emnlp.1497/). **EMNLP Findings 2026**.<br>
   Jiachun Li, **Zhuoran Jin**, Kang Liu, Jun Zhao
 
-* ExpRL: Unified Non-Parametric and Parametric Experience Learning for LLM Agent Evolution. **EMNLP Findings 2026**.<br>
+* [ExpRL: Unified Non-Parametric and Parametric Experience Learning for LLM Agent Evolution](https://aclanthology.org/2026.findings-emnlp.1666/). **EMNLP Findings 2026**.<br>
   **Zhuoran Jin**<sup>*</sup>, Lingshuai Wang<sup>*</sup>, Yupu Hao, Tianyi Men, Zhitao He, Daojian Zeng, Kang Liu, Jun Zhao
 
 * [Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2603.11896). **ECCV 2026**.<br>
