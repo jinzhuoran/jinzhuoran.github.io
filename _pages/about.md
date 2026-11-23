@@ -271,6 +271,8 @@ Kejian Zhu, **Zhuoran Jin**, Hongbang Yuan, Jiachun Li, Shangqing Tu, Pengfei Ca
 
 # 🎖 Honors and Awards
 
+* *2026*, Doctoral Dissertation Incentive Program, Chinese Information Processing Society of China. (中国中文信息学会博士学位论文激励计划)
+
 * *2026*, President Special Award, Chinese Academy of Sciences. (中国科学院院长特别奖，中科院研究生最高奖项)
 
 * *2026*, Outstanding Doctor Graduates, Beijing. (北京市优秀毕业生)
